@@ -7,7 +7,7 @@ services:
     networks:
       - nginx-proxy-net
     volumes:
-      - ".:/src"
+      - "./links-website/:/src"
     restart: unless-stopped
     environment: 
       - VIRTUAL_HOST=${LINKS_HOST}

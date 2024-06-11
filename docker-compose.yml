@@ -1,7 +1,7 @@
 services:
 
     nginx-reverse-proxy:
-        image: "jwilder/nginx-proxy:latest"
+        image: "nginxproxy/nginx-proxy:latest"
         container_name: nginx-reverse-proxy
         volumes:
             - "html:/usr/share/nginx/html"
@@ -16,7 +16,7 @@ services:
             - "80:80"
             - "443:443"
     letsencrypt:
-        image: "jrcs/letsencrypt-nginx-proxy-companion:latest"
+        image: "nginxproxy/acme-companion:latest"
         container_name: "letsencrypt-helper"
         volumes:
             - "html:/usr/share/nginx/html"

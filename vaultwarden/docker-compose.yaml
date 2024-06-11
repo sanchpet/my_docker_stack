@@ -1,0 +1,17 @@
+name: vaultwarden
+services:
+    vaultwarden:
+        container_name: vaultwarden
+        image: vaultwarden/server:latest
+        networks:
+            - nginx-proxy-net
+        volumes:
+            - /opt/vaultwarden/:/data/
+        restart: unless-stopped
+        environment:
+            - VIRTUAL_HOST=${VAULTWARDEN_HOST}
+            - LETSENCRYPT_HOST=${VAULTWARDEN_HOST}
+networks:
+    nginx-proxy-net:
+        external: true
+        name: ${PROXY_NET}

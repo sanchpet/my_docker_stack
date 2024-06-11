@@ -1,0 +1,19 @@
+name: links-website
+services:
+  links-website:
+    container_name: links-website
+    image: klakegg/hugo:0.111.3-ext-debian
+    command: server
+    networks:
+      - nginx-proxy-net
+    volumes:
+      - ".:/src"
+    restart: unless-stopped
+    environment: 
+      - VIRTUAL_HOST=${LINKS_HOST}
+      - LETSENCRYPT_HOST=${LINKS_HOST}
+
+networks:
+    nginx-proxy-net:
+        external: true
+        name: ${PROXY_NET}

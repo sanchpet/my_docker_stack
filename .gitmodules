@@ -1,0 +1,3 @@
+[submodule "sanchpetblog/themes/digitalgarden"]
+	path = sanchpetblog/themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git

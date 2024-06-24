@@ -2,7 +2,7 @@ name: links-website
 services:
   links-website:
     container_name: links-website
-    image: klakegg/hugo:0.111.3-ext-debian
+    image: floryn90/hugo:0.127.0-ext-debian
     command: server
     networks:
       - nginx-proxy-net

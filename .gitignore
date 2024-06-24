@@ -1,4 +1,5 @@
 .env
 links-website/.hugo_build.lock
 sanchpetblog/.hugo_build.lock
+sanchpethub/.hugo_build.lock
 sanchpetblog/node_modules

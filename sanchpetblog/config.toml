@@ -1,18 +1,52 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.sanchpet.su/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "sanchpetblog"
 theme = 'digitalgarden'
 
 [menu]
 [[menu.main]]
-  name = 'Home'
+  name = 'Главная'
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'Content'
+  name = 'Материалы'
   params.header = true
   weight = 2
 [[menu.main]]
-  name = 'Articles'
+  name = 'Статьи'
   url = '/articles'
   weight = 3
+[[menu.main]]
+  name = 'Портфолио'
+  url = '/portfolio'
+  weight = 4
+[[menu.main]]
+  name = 'Программы'
+  url = '/stack'
+  weight = 5
+[[menu.main]]
+  name = 'Ссылки'
+  params.header = true
+  weight = 6
+[[menu.main]]
+  name = 'Телеграм'
+  url = 'https://t.me/sanchpetblog'
+  weight = 7
+
+
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/sanchpet'
+  weight = 1
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://linkedin.com/in/sanchpet/'
+  weight = 2
+[[menu.social]]
+  name = 'Mastodon'
+  url = 'https://techhub.social/@sanchpet'
+  weight = 2
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:petrov@petrovad.ru'
+  weight = 8

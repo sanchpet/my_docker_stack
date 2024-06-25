@@ -4,3 +4,6 @@
 [submodule "sanchpethub/themes/hugo-coder"]
 	path = sanchpethub/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "links/themes/lynx"]
+	path = links/themes/lynx
+	url = https://github.com/jpanther/lynx

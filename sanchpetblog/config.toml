@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "sanchpetblog"
 theme = 'digitalgarden'
 
+[Params]
+  description = "sanchpetblog - цифровой сад исследователя"
+  images = ['/logo.jpg']
+  enableSearch = true
+
 [menu]
 [[menu.main]]
   name = 'Главная'
@@ -50,3 +55,11 @@ theme = 'digitalgarden'
   name = 'Email'
   url = 'mailto:petrov@petrovad.ru'
   weight = 8
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true

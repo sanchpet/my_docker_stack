@@ -1,17 +1,17 @@
-name: links
+name: sanchpetblog
 services:
-  links:
-    container_name: links
+  sanchpetblog:
+    container_name: sanchpetblog
     image: floryn90/hugo:0.127.0-ext-debian
     command: server
     networks:
       - nginx-proxy-net
     volumes:
-      - "./links/:/src"
+      - "./sanchpetblog/:/src"
     restart: unless-stopped
     environment: 
-      - VIRTUAL_HOST=${LINKS_HOST}
-      - LETSENCRYPT_HOST=${LINKS_HOST}
+      - VIRTUAL_HOST=${BLOG_HOST}
+      - LETSENCRYPT_HOST=${BLOG_HOST}
 
 networks:
     nginx-proxy-net:

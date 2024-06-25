@@ -6,4 +6,4 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "links/themes/lynx"]
 	path = links/themes/lynx
-	url = https://github.com/jpanther/lynx
+	url = https://github.com/jpanther/lynx.git

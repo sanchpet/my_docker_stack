@@ -1,6 +1,6 @@
 name: sanchpethub
 services:
-  sanchpetblog:
+  sanchpethub:
     container_name: sanchpethub
     image: floryn90/hugo:0.127.0-ext-debian
     command: server

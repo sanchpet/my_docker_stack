@@ -39,15 +39,15 @@ theme = 'digitalgarden'
   weight = 7
 [[menu.main]]
   name = 'Художественные'
-  url = '/library/fiction'
+  url = '/fiction'
   weight = 8
 [[menu.main]]
   name = 'Прикладные'
-  url = '/library/nonfiction'
+  url = '/nonfiction'
   weight = 9
 [[menu.main]]
   name = 'Философия'
-  url = '/library/phylosophy'
+  url = '/phylosophy'
   weight = 10
 [[menu.main]]
   name = 'Ссылки'

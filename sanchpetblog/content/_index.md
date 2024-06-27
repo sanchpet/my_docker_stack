@@ -35,4 +35,4 @@ title: Главная
 - → [Мой список прикладной литературы](/nonfiction)
 - → [Мой список философской (и около) литературы](/phylosophy)
 
-![Revue URL](https://github.com/sanchpet/my_docker_stack/blob/main/sanchpetblog/images/me.png?raw=true)
+![Я](https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/me.png?raw=true)

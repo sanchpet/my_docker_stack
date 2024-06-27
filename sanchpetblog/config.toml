@@ -18,11 +18,11 @@ theme = 'digitalgarden'
   params.header = true
   weight = 2
 [[menu.main]]
-  name = 'Статьи'
+  name = 'Заметки'
   url = '/articles'
   weight = 3
 [[menu.main]]
-  name = 'Портфолио'
+  name = 'Эссе'
   url = '/portfolio'
   weight = 4
 [[menu.main]]
@@ -30,13 +30,33 @@ theme = 'digitalgarden'
   url = '/stack'
   weight = 5
 [[menu.main]]
+  name = 'Инструменты'
+  url = '/stack'
+  weight = 6
+[[menu.main]]
+  name = 'Библиотека'
+  params.header = true
+  weight = 7
+[[menu.main]]
+  name = 'Художественные'
+  url = '/portfolio'
+  weight = 8
+[[menu.main]]
+  name = 'Прикладные'
+  url = '/portfolio'
+  weight = 9
+[[menu.main]]
+  name = 'Философия'
+  url = '/portfolio'
+  weight = 10
+[[menu.main]]
   name = 'Ссылки'
   params.header = true
-  weight = 6
+  weight = 11
 [[menu.main]]
   name = 'Телеграм'
   url = 'https://t.me/sanchpetblog'
-  weight = 7
+  weight = 12
 
 
 [[menu.social]]

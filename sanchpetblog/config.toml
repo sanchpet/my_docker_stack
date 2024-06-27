@@ -27,11 +27,11 @@ theme = 'digitalgarden'
   weight = 4
 [[menu.main]]
   name = 'Программы'
-  url = '/tools'
+  url = '/software'
   weight = 5
 [[menu.main]]
   name = 'Инструменты'
-  url = '/stack'
+  url = '/tools'
   weight = 6
 [[menu.main]]
   name = 'Библиотека'

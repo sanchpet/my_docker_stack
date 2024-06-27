@@ -4,3 +4,6 @@
 [submodule "links/themes/lynx"]
 	path = links/themes/lynx
 	url = https://github.com/jpanther/lynx.git
+[submodule "sanchpetblog/themes/digitalgarden"]
+	path = sanchpetblog/themes/digitalgarden
+	url = https://github.com/sanchpet/digital-garden-hugo-theme.git

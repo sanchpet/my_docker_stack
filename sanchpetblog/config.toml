@@ -19,15 +19,15 @@ theme = 'digitalgarden'
   weight = 2
 [[menu.main]]
   name = 'Заметки'
-  url = '/articles'
+  url = '/notes'
   weight = 3
 [[menu.main]]
   name = 'Эссе'
-  url = '/portfolio'
+  url = '/essays'
   weight = 4
 [[menu.main]]
   name = 'Программы'
-  url = '/stack'
+  url = '/tools'
   weight = 5
 [[menu.main]]
   name = 'Инструменты'
@@ -39,15 +39,15 @@ theme = 'digitalgarden'
   weight = 7
 [[menu.main]]
   name = 'Художественные'
-  url = '/portfolio'
+  url = '/library/fiction'
   weight = 8
 [[menu.main]]
   name = 'Прикладные'
-  url = '/portfolio'
+  url = '/library/nonfiction'
   weight = 9
 [[menu.main]]
   name = 'Философия'
-  url = '/portfolio'
+  url = '/library/phylosophy'
   weight = 10
 [[menu.main]]
   name = 'Ссылки'

@@ -1,6 +1,3 @@
-[submodule "sanchpetblog/themes/digitalgarden"]
-	path = sanchpetblog/themes/digitalgarden
-	url = https://github.com/sanchpet/digital-garden-hugo-theme.git
 [submodule "sanchpethub/themes/hugo-coder"]
 	path = sanchpethub/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git

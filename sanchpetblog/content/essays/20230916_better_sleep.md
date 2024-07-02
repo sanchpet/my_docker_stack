@@ -54,6 +54,6 @@ publication: essay
 
 Вот такой получился список практик/вещей/инструментов, которые я внедрил для комплексного улучшения сна. Если вы хотите улучшить свой сон, начните с этих вещей. Я сэкономил вам много времени и подготовил хороший чеклист. Эти практики срабатывают на многих людях и смогут помочь и вам. Всем хороших выходных =)
 <figure>
-    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/sleep_rescue_team.png?raw=true" alt="Вещи для сна">
+    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/sleep_rescue_team.jpg?raw=true" alt="Вещи для сна">
     <figcaption>Моя команда по спасению сна</figcaption>
 </figure>

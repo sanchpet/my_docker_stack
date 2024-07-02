@@ -3,7 +3,7 @@ title: Я перестал ходить в спортзал. Спортзал п
 date: 2024-01-21
 publication: essay
 images:
--  https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_1.png?raw=true
+-  https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_1.jpg?raw=true
 description: Как я делал спортзал дома
 ---
 С этой осени я начал работать в непривычном для себя режиме. Дневная работа, универ (чаще всего это вечерние пары после работы), а если ни то, ни другое - то футбол, соревнования или тренировки, так же вечером после работы. 

@@ -3,7 +3,7 @@ title: Я перестал ходить в спортзал. Спортзал п
 date: 2024-03-17
 publication: essay
 images:
--  https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2.png?raw=true
+-  https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2.jpg?raw=true
 description: Как я продолжил делать спортзал дома
 ---
 Не думал я в начале пути, что процесс сборки своего спортзала будет содержать в себе столько творческих и даже инженерных задач.
@@ -21,21 +21,21 @@ description: Как я продолжил делать спортзал дома
 Со шведской стенкой мне очень повезло. Я смог легко договориться и присвоить себе детскую шведскую стенку, которую ставили в комнату сестры лет 10-15 назад. Она была узковата для меня, но при сборке зала с ограниченным бюджетом ты строго придерживаешься принципа "если можешь немного потерять в качестве, но очень сильно сэкономить, забей и соглашайся!" 
 
 <figure>
-    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2_1.png?raw=true" alt="Шведская стенка">
+    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2_1.jpg?raw=true" alt="Шведская стенка">
     <figcaption>Моя шведская стенка</figcaption>
 </figure>
 
 Потом пришла пора приобретать стойку для стенки. Заказал. Привезли. Собрал. Начал вешать — и чего-то второе крепление не нашло опору... Оказалось, что моя новая стенка, поскольку детская, по ширине уступает стандартному размеру на целых 15 сантиметров. 
 
 <figure>
-    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2_2.png?raw=true" alt="Крепление">
+    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2_2.jpg?raw=true" alt="Крепление">
     <figcaption>Крепление не подошло</figcaption>
 </figure>
 
 Возвращать изделие и заказывать другое был не вариант — они все были стандартных размеров, 60 сантиметров в ширину. А нам нужно было 45! Послав в пешее эротическое путешествие гарантию от производителя, мы достали медицинские халаты и решили немного поиграть в хирургов. Диагноз вынесен, требуется операция — удаляем 15 сантиметров железа с поперечных креплений и привариваем оставшееся от больного друг к другу. Попутно надо запаять и пересверлить отверстия для закрепления спинки. Хорошо, что я айтишник, а не врач. Начертили схему, нашли человека со сварочным аппаратом, и через сутки пациент уже вернулся домой. Результат наших хирургических вмешательств виден на третьей фотке. В итоге крепление удалось установить, и я обзавёлся стойками. 
 
 <figure>
-    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2_3.png?raw=true" alt="Крепление подошло">
+    <img src="https://github.com/sanchpet/my_docker_stack/blob/master/sanchpetblog/images/essays/home_gym_2_3.jpg?raw=true" alt="Крепление подошло">
     <figcaption>Прокачали крепление сваркой</figcaption>
 </figure>
 

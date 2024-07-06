@@ -1,4 +1,4 @@
 ---
-title: Stack
-description: Tools I use everyday
+title: Инструменты
+description: Подборка моих инструментов и предметов продуктивности
 ---

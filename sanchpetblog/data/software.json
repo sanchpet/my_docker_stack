@@ -1,45 +1,31 @@
 [
     {
-      "name": "Bear Notes",
-      "description": "Quick note taking application on Mac for writing down instant thoughts",
-      "link": "https://bear.app/",
-      "icon": "https://blog.bear.app/wp-content/uploads/2018/10/bear-icon.png",
-      "tag": "Productivity"
+      "name": "Obsidian",
+      "description": "Самая универсальная система ведения личных заметок. Веду в ней рабочую Wiki и личную картотеку.",
+      "link": "https://obsidian.md/",
+      "icon": "https://seeklogo.com/images/O/obsidian-software-logo-F63CCF011F-seeklogo.com.png",
+      "tag": "Продуктивность"
     },
     {
-      "name": "Cloudflare",
-      "description": "Place for all my domains on the internet",
-      "link": "https://cloudflare.com",
-      "icon": "",
-      "tag": "Webdev"
+      "name": "Telegram",
+      "description": "Место для личной коммуникации, продвижения проектов, получения релевантной информации.",
+      "link": "https://telegram.org/",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/599/large_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png",
+      "tag": "Медиа"
     },
     {
-      "name": "Vercel",
-      "description": "Hosts frontend of projects including this website",
-      "link": "https://vercel.com/",
-      "icon": "",
-      "tag": ""
+      "name": "Яндекс Музыка",
+      "description": "Слушаю музыку, аудиокниги и подкасты здесь и только здесь.",
+      "link": "https://music.yandex.ru/",
+      "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffree-png.ru%2Fwp-content%2Fuploads%2F2021%2F12%2Ffree-png.ru-60.png&f=1&nofb=1&ipt=e0e230efdf7fe2579872aafe9bdf0e584514430cc7b8260d6dee234381af0ba9&ipo=images",
+      "tag": "Медиа"
     },
     {
-      "name": "GitHub",
-      "description": "Code hosting for all projects",
-      "link": "https://github.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
-      "tag": "Webdev"
-    },
-    {
-      "name": "iTerm",
-      "description": "A definitely more functional terminal for Mac",
-      "link": "https://iterm2.com/",
-      "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
-      "tag": "Productivity"
-    },
-    {
-      "name": "Figma",
-      "description": "Design tool for all design artifacts and social media handles",
-      "link": "https://www.figma.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
-      "tag": "Graphic Design"
+      "name": "Vaultwarden",
+      "description": "Self-hosted менеджер паролей, совместимый с клиентами Bitwarden работающий с моего сервера.",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.androidacy.com%2Fwp-content%2Fuploads%2Fvaultwarden-icon.png&f=1&nofb=1&ipt=822903f30fa6466a3c4deac091d5d69dc862edd3da4c4eeaec267abfb739628e&ipo=images",
+      "tag": "Безопасность"
     }
   ]
   

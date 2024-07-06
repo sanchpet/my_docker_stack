@@ -1,4 +1,4 @@
 ---
-title: Stack
-description: Tools I use everyday
+title: Мои программы
+description: Программы, которые я регулярно использую.
 ---

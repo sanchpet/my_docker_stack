@@ -7,7 +7,7 @@ I also decided to make this repository public in case someone wants to use some 
 ## Bring the stack up
 Firstly, clone the repo and rename `.env.sample` file:
 ```bash
-git clone https://github.com/sanchpet/my_docker_stack.git
+git clone --recurse-submodules https://github.com/sanchpet/my_docker_stack.git
 cd my_docker_stack
 mv .env.sample .env
 ```

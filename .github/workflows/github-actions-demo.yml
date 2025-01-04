@@ -34,5 +34,5 @@ jobs:
           script_stop: true
           script: |
             git clone --recurse-submodules git@github.com:${{ github.repository }}.git
-            ls -l ${{ github.workspace }}
+            ls -l $(basename ${{ github.workspace }})
 
